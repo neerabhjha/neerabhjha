@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer with a CSE degree who is proficient in HTML, CSS, Tailwind, JavaScript, Node.js, and React.js
+Full Stack Developer with a CSE degree who is proficient in HTML, CSS, SCSS, Tailwind, JavaScript, Node.js, and React.js
 
 
 ## 🌐 Socials:
